@@ -1,12 +1,5 @@
-asgiref
-Django
-django-cors-headers
-djangorestframework
-pip
-pytz
-setuptools
-sqlparse
-tzdata
-wheel
-Pillow
-pydantic
+aiogram
+requests
+lxml
+art
+bs4
