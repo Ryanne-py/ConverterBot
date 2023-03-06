@@ -10,8 +10,6 @@ import api_service
 import keyboards as kb
 import many_conver
 
-class Bot(Bot):
-    def
 
 bot = Bot(bot_token.BOT_TOKEN)
 dp = Dispatcher(bot)
